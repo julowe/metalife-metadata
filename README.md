@@ -1,6 +1,6 @@
 # Seatime Info
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julowe/metalife-metadata/HEAD?urlpath=%2Fdoc%2Ftree%2Fr2r-process.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/julowe/metalife-metadata/HEAD?urlpath=%2Fdoc%2Ftree%2Fseatime-display.ipynb)
 
 Get metadata from R2R about a person's expeditions -
 for now some measure of days at sea and miles sailed.
@@ -30,6 +30,7 @@ I quietly take to the ship.” ― Herman Melville, Moby Dick
 
 ## How to use
 
-Run this [jupyter notebook via the mybinder service](https://mybinder.org/v2/gh/julowe/metalife-metadata/HEAD?urlpath=%2Fdoc%2Ftree%2Fr2r-process.ipynb).
+Run this
+[jupyter notebook via the mybinder service](https://mybinder.org/v2/gh/julowe/metalife-metadata/HEAD?urlpath=%2Fdoc%2Ftree%2Fseatime-display.ipynb).
 Or on your own jupyter server.
 Or convert it to a commandline script if I haven't already?
