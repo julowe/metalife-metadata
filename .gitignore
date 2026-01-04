@@ -1,3 +1,10 @@
+# user added
+test*.py
+.vscode/
+test_*.pkl
+test_*.pkl.*.bak
+data-local/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

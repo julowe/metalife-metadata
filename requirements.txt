@@ -1,3 +1,7 @@
 requests
 tqdm
+pandas
+numpy
+geopy
 ipywidgets
+bs4
